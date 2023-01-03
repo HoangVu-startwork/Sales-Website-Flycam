@@ -1,0 +1,447 @@
+.collection{
+    height: auto;
+    width: 85%;
+    margin-left: 7.5%;
+    /* position: absolute; */
+}
+.collection .Collections {
+    margin-top: 40px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 250;
+    font-size: 36px;
+}
+
+.collection .bigtitle1 .Collections1 {
+    margin-top: 30px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 250;
+    font-size: 36px;
+    position: relative;
+
+}
+.collection .rectangle{
+    width: 100%;
+    height: 50px;
+    margin-top: 10px;
+    background: #D9D9D9;
+}
+/*  */
+.collection .cartitem{
+    margin-top: 20px;
+    height: auto;
+    min-height: auto;
+
+}
+.collection .cartitem .car{
+    text-align: center;
+    width: 350px;
+    background: #ffffff;
+    height: 450px;
+    padding: 5px;
+    margin: 26px;
+    display:inline-block; 
+    /* margin-top: 55px;
+    margin-left: 112px;
+    margin-right: -28px;
+    margin-bottom: 20px; */
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 20px;
+}
+.collection .cartitem .car img {
+    width: 340px;
+    height: 350px;
+    padding:20px;
+}
+.collection .cartitem .car .car_item h3{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 26px;
+}
+.collection .cartitem .car .car_item .pode_text {
+    font-family: 'Poppins';
+    font-style: normal;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+}
+/*  */
+.collection .inspire{
+    width: 100%;
+    height: 370px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.collection .inspire .left{
+    width: 51.5%;
+    height: 370px;
+    float: left;
+    z-index: 1000;
+    box-shadow: rgba(49, 41, 41, 0.24) 0px 3px 8px;
+}
+.collection .inspire .left .left1{
+    width: 47%;
+    height: 250px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 10px;
+}
+.collection .inspire .left .left2{
+    width: 50%;
+    height: 100%;
+    float: right;
+}
+.collection .inspire .left .left2 .inspire-text{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 26px;
+    margin-top: 80px;
+}
+.collection .inspire .left .left2 .inspir-text{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    margin-top: 20px;
+}
+.collection .inspire .left .left1 img{
+    width: 100%;
+    height: 100%;
+}
+.collection .inspire .right{
+    width: 48%;
+    height: 370px;
+    float: right;
+}
+.collection .inspire .right img{
+    width: 100%;
+    height: 100%;
+}
+/*  */
+.collection .rectanglect{
+    width: 100%;
+    height: 600px;
+    margin-top: 120px;
+}
+.collection .rectanglect .flet{
+    width: 370px;
+    height: 600px;
+    float: left;
+}
+.collection .rectanglect .right{
+    width: 370px;
+    height: 600px;
+    float: right;
+}
+.collection .rectanglect .center{
+    width: 370px;
+    height: 600px;
+    float: left;
+    margin-left: 4.2%;
+}
+
+.collection .rectanglect .flet .img_rectangle{
+    width: 100%;
+    height: 220px;
+}
+.collection .rectanglect .flet .hoan{
+    width: 30%;
+    height: 130px;
+    margin-top: -70px;
+    margin-left: 130px;
+}
+.collection .rectanglect .flet .hoan .img_rectan{
+    width: 100%;
+    height: 100%;
+}
+.collection .rectanglect .flet .rectanglect_text{
+    margin: 25px;
+    text-align: center;
+}
+.collection .rectanglect .flet .rectanglect_text .rectanglect_p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 26px;
+}
+.collection .rectanglect .flet .rectanglect_text .rectanglect_p1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    margin-top: 15px;
+}
+.collection .rectanglect .flet .rectanglect_text .rectanglect_p2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    margin-top: 15px;
+}
+.collection .rectanglect .flet .button3{
+    box-sizing: border-box;
+    width: 202px;
+    height: 48px;
+    margin-left: 22%;
+    background: #FFFFFF;
+    border: 0.5px solid #C5BCBC;
+    border-radius: 8px;
+}
+.collection .rectanglect .right .img_rectangle{
+    width: 100%;
+    height: 220px;
+}
+.collection .rectanglect .right .hoan{
+    width: 50%;
+    height: 130px;
+    margin-top: -70px;
+    margin-left: 95px;
+}
+.collection .rectanglect .right .hoan .img_rectan{
+    width: 100%;
+    height: 100%;
+}
+.collection .rectanglect .right .rectanglect_text{
+    margin: 25px;
+    text-align: center;
+}
+.collection .rectanglect .right .rectanglect_text .rectanglect_p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 26px;
+    /* margin-top: -38px; */
+}
+.collection .rectanglect .right .rectanglect_text .rectanglect_p1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    margin-top: 15px;
+}
+.collection .rectanglect .right .rectanglect_text .rectanglect_p2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    margin-top: 15px;
+}
+.collection .rectanglect .right .button3{
+    box-sizing: border-box;
+    width: 202px;
+    height: 48px;
+    margin-left: 22%;
+    background: #FFFFFF;
+    border: 0.5px solid #C5BCBC;
+    border-radius: 8px;
+}
+.collection .rectanglect .center .img_rectangle{
+    width: 100%;
+    height: 220px;
+}
+.collection .rectanglect .center .hoan{
+    width: 50%;
+    height: 130px;
+    margin-top: -70px;
+    margin-left: 105px;
+}
+.collection .rectanglect .center .hoan .img_rectan1{
+    width: 100%;
+    height: 100%;
+}
+.collection .rectanglect .center .rectanglect_text{
+    margin: 25px;
+    text-align: center;
+}
+.collection .rectanglect .center .rectanglect_text .rectanglect_p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 26px;
+}
+.collection .rectanglect .center .rectanglect_text .rectanglect_p1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-top: 15px;
+}
+.collection .rectanglect .center .rectanglect_text .rectanglect_p2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-top: 15px;
+}
+.collection .rectanglect .center .button3{
+    box-sizing: border-box;
+    width: 202px;
+    height: 48px;
+    margin-left: 22%;
+    background: #FFFFFF;
+    border: 0.5px solid #C5BCBC;
+    border-radius: 8px;
+}
+/*  */
+.collection .expand{
+    width: 100%;
+    height: 650px;
+    margin-top: 25px;
+}
+.collection .title {
+    width: 100%;
+    height: 30px;
+    margin-top: 80px;
+}
+.collection .title .line1{
+    /* width: 40%; */
+    height: 30px;
+    width: 350px;
+    height: 2px;
+    background: #A59393;
+    border: 0.5px solid #A59393;
+    float: left;
+    margin-top: 13px;
+}
+.collection .title .text_line{
+    width: 488px;
+    float: left;
+    margin-left: 10px; 
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 26px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+}
+.collection .title .line2{
+    height: 30px;
+    width: 350px;
+    height: 2px;
+    background: #A59393;
+    border: 0.5px solid #A59393;
+    float: right;
+    margin-top: 13px;
+}
+.collection .expand .expand_group{
+    width: 100%;
+    margin-top: 60px;
+    height: 600px;
+}
+.collection .expand .expand_group .rectangle01{
+    width: 390px;
+    height: 530px;
+    float: left;
+    background-image: url("../../../public/images/inspire/MOVMAX-N2-Air-Arm-Anti-Shock-Absorbing-Car-Shooting-Hang-Arm-Payload-40kg-for-DJI-RS2.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius:10px;
+}
+.collection .expand .expand_group .rectangle02{
+    width: 390px;
+    height: 530px;
+    float: left;
+    margin-left: 15px;
+    background-image: url("../../../public/images/inspire/rise-of-the-drones-06-2000.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: top left; 
+    border-radius:10px;
+}
+.collection .expand .expand_group .rectangle03{
+    width: 390px;
+    height: 530px;
+    float: right;
+    background-clip: border-box;
+    background-size: 100% 100%;
+    background-image: url("../../../public/images/inspire/4329339a-910a-4172-9ba6-a2107401c096.jpeg");
+    background-repeat: no-repeat;
+    background-position: top left; 
+    border-radius:10px;
+}
+
+.collection .expand .expand_group .rectangle03 .rectangl_text{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+    margin-top: 120px;
+    color: #ffffff;
+}
+.collection .expand .expand_group .rectangle03 .rectangl_text1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 350;
+    font-size: 20px;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+    margin-top: 45px;
+    color: #ffffff;
+    padding: 15px;
+}
+.collection .expand .expand_group .rectangle02 .rectangl_text{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+    margin-top: 120px;
+    color: #ffffff;
+}
+.collection .expand .expand_group .rectangle02 .rectangl_text1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 350;
+    font-size: 20px;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+    margin-top: 45px;
+    color: #ffffff;
+    padding: 15px;
+}
+.collection .expand .expand_group .rectangle01 .rectangl_text{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+    margin-top: 120px;
+    color: #ffffff;
+}
+.collection .expand .expand_group .rectangle01 .rectangl_text1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 350;
+    font-size: 20px;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+    margin-top: 45px;
+    color: #ffffff;
+    padding: 15px;
+}

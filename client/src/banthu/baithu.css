@@ -1,0 +1,126 @@
+.col-wrap {
+    display: table; 
+    width: 100%; 
+    height: auto;
+}
+.col-wrap .col img{
+    text-align: center;
+    width: 90%;
+    height: 90%;
+}
+.col {
+    display: table-cell;
+    width: 30%;
+    padding: 1px;
+}
+.col:nth-child(even){
+    border: 1px solid #0F1C3F;
+    /* background: #bdcaeb; */
+    border-radius: 15px;
+    padding-bottom: 5px;
+}
+.col:nth-child(odd){
+    /* background-color:yellow; */
+}
+
+.col-wrap .col .circle {
+    background: #fbfbfb;
+    border: 0.1875em solid #0F1C3F;
+    border-radius: 50%;
+    box-shadow: 0.375em 0.375em 0 0 rgba(15, 28, 63, 0.125);
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    margin-left: 39%;
+    margin-top: 10px;
+  }
+.col-wrap .col .chu {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+}
+.col-wrap .col h2 {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Poppins';
+}
+.thongtincanhan{
+    font-size: 18px;
+    font-family: 'Poppins';
+    font-style: normal;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.thongtincanhan p {
+    border: 0.5px solid #0F1C3F;
+    box-shadow: 0.375em 0.375em 0 0 rgba(15, 28, 63, 0.125);
+    margin-top: 30px;
+    margin-bottom: 5px;
+    border-radius: 15px;
+    padding: 5px;
+}
+.thongtincanhan p select {
+    width: 70%;
+    background-color:rgba(255, 255, 255, 0.125);
+    border: 0.5px solid #ffffff;
+    /* background: #fbfbfb; */
+    font-size: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+}
+.nutthaydoi{
+    width: 50%;
+    height: 30px;
+    margin-left: 24%;
+    text-align: center;
+    background: #fbfbfb;
+    border: 0.5px solid #000000;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.nutthaydoi01{
+    width: 100%;
+    height: 30px;
+    text-align: center;
+}
+.nutthaydoi01:hover{
+    background: #94a1c4;
+}
+.col-wrap .col .cartitem .car{
+    width: auto;
+    background: #fbfbfb;
+    border: 0.5px solid #84878e;
+    margin-top: 20px;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 0.375em 0.375em 0 0 rgba(15, 28, 63, 0.125)
+}
+.removeCart {
+    font-size: 28px;
+    margin-right: -1px;
+    /* text-align: right; */
+  }
+  .removeCart i {
+    margin-right: 60px;
+    padding: 1px;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    font-weight: 900;
+    text-align: center;
+  }
+  .removeCart i:hover{
+    color: #ff0000;
+  }
+  .removeCart i{
+    font-size: 28px;
+    background:none;
+  }
+  .removeCart .fa-pencil:hover{
+    color: aquamarine;
+  }

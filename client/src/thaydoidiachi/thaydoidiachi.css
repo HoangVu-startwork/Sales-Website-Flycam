@@ -1,0 +1,49 @@
+.formdiachi{
+    height: 400px;
+    width: 650px;
+    padding: 10px;
+    margin-left: 30%;
+    /* border: 0.5px solid #000000; */
+    margin-bottom: 5px;
+}
+.formdiachi .tengoinho{
+    width: 100%;
+    margin-top: 20px;
+    height: 40px;
+    /* border: 0.5px solid #000000; */
+    border-radius: 8px;
+    box-shadow: rgb(3 0 71 / 15%) 0 1px 3px;
+    background: #ece9e9;
+    font-size: 15px;
+}
+.formdiachi .tengoinho {
+    padding: 20px;
+}
+.formdiachi select{
+    padding-left: 20px;
+}
+.formdiachi select{
+    margin-top: 20px;
+    height: 40px;
+    width: 100%;
+    border: 0px solid #000000;
+    border-radius: 8px;
+    box-shadow: rgb(3 0 71 / 15%) 0 1px 3px;
+    background: #ece9e9;
+    font-size: 15px;
+}
+.formdiachi .thaydoidiachi{
+    margin-top: 20px;
+    height: 40px;
+    width: 100%;
+    border: 0px solid #000000;
+    border-radius: 40px;
+    box-shadow: rgb(3 0 71 / 15%) 0 1px 3px;
+    background: #f00101;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+.formdiachi .thaydoidiachi:hover{
+    background: #9b9292;
+    color: #000;
+}

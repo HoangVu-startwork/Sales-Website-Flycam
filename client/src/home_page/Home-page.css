@@ -1,0 +1,316 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+  }
+.content{
+    width: 100%;
+    /* margin-left: 50px;
+    margin-right: 50px; */
+}
+.content01{
+    width: auto;
+    height: 500px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.content02{
+    width: auto;
+    height: 500px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 60px;
+}
+.post{
+    width: 630px;
+    height: 499px;
+    float: left;
+}
+.post img{
+    width: 685px;
+    height: 500px;
+}
+.sidebar{
+    width: 600px;
+    height: 499px;
+    float: right;
+}
+.sidebar h3{
+    font-size: 30px;
+    margin-left: 60px;
+    margin-top: 100px;
+}
+.sidebar h4{
+    font-size: 28px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.sidebar p{
+    font-size: 18px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 12px;
+}
+/* Content 02 */
+.post01{
+    width: 590px;
+    height: 499px;
+    float: left;
+    margin-left: 10px;
+}
+.post01 h3{
+    font-size: 30px;
+    margin-left: 90px;
+    margin-top: 110px;
+}
+.post01 h4{
+    font-size: 28px;
+    margin-left: 90px;
+    margin-top: 10px;
+}
+.post01 p{
+    font-size: 18px;
+    margin-left: 90px;
+    margin-right: 60px;
+    margin-top: 12px;
+}
+.sidebar01{
+    width: 630px;
+    height: 499px;
+    float: right;
+}
+.sidebar01 img{
+    width: 685px;
+    height: 500px;
+    margin-left: -70px;
+}
+/* Content 03  */
+.content03{
+    margin-top: 60px;
+    width: 100%;
+    height: 600px;
+    background-image: url("../../public/images/home/xeao.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 80%;
+    color: #fff;
+}
+.content03 .piter{
+    position: absolute;
+    width: 1049px;
+    height: 184px;
+    left: 221px;
+    top: 1450px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+}
+.content03 .piter .piter01{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.content03 .piter .piter02{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.content03 .piter .piter03{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.content03 .piter .piter04{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+/* Content 04  */
+.content04{
+    width: 100%;
+    height: 630px;
+}
+.content04 .pitc{
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 40px;
+    line-height: 48px;
+}
+.content04 img{
+    margin-top: 10px;
+    text-align: center;
+    margin-left: 26%;
+    width: 700px;
+}
+.content04 .prit{
+    width: 800px;
+    height: 60px; 
+    margin-left: 23%;
+    margin-top: 10px;
+    text-align: center;
+}
+.content04 .prit .prit1{
+   float: left;
+   margin-right: 0px;
+   width: 250px;
+   height: 48px;
+   line-height: 48px;
+   border-radius: 10px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 20px;
+   border: 1px solid #000000;
+}
+.content04 .prit .prit2{
+    display: inline-block;
+    margin: 0 auto;
+    width: 250px;
+    height: 48px;
+    line-height: 48px;
+    border-radius: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    border: 1px solid #000000;
+}
+.content04 .prit .prit3{
+    float: right;
+    width: 250px;
+    height: 48px;
+    line-height: 48px;
+    border-radius: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    border: 1px solid #000000;
+}
+.content04 .prit09{
+    margin-top: 9px;
+    width: 100%;
+    background: #fff;
+    text-align: center;
+}
+.content04 .prit09 .prit4{
+    text-align: center;
+    margin-left: 42.1%;
+    width: 250px;
+    height: 48px;
+    line-height: 48px;
+    border-radius: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    border: 1px solid #000000;
+}
+.content04 .prit09 .prit5{
+    width: 243px;
+    height: 24px;
+    position: absolute;
+    margin-left: -110px;
+    margin-top: 15px;
+    color: #cbc6c6;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+}
+/* content05 */
+.content05{
+    width: 100%;
+    height: 110px;
+}
+.content05 .group{
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29px;
+    color: #1D429F;
+}
+.content05 .buton{
+    margin-top: 30px;
+    margin-left: 396px;
+}
+.content05 .buton button{
+    float: left;
+    width: 170px;
+    height: 45px;
+    background: #000000;
+    border: 1px solid #000000;
+    border-radius: 8px;
+}
+.content05 .buton button .group1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.content05 .buton .group2{
+    float: left;
+    margin-left: 30px;
+    line-height: 45px;
+    width: 441px;
+    text-align: center;
+    height: 45px;
+    background: #FFFFFF;
+    border: 0.5px solid #000000;
+    border-radius: 8px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}
+.content6{
+    width: 100%;
+    height: 600px;
+}
+.content07{
+    width: 100%;
+    height: 900px;   
+    background:#2e2d2d;
+    background-image: url("../../public/images/home/autonguoi.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-top: 20px;
+}
+.content07 .pi{
+    color: #FFFFFF;
+    margin-top: 50px;
+    margin-left: 40%;
+    font-size: 30px;
+    position: absolute;
+    text-align: center;
+}
+@media (max-width: 768px) {
+    content {
+        width: 100%;
+        height: auto;
+    }
+    .content01{
+        width: auto;
+    }
+    .post{
+        width: 100%;
+        height: 100%;
+    }
+    .post img{
+        margin-top: -5%;
+        width: 100%;
+        height: auto;
+        background: #000000;
+    }
+    .sidebar{
+        margin-top: -150px;
+    }
+}
